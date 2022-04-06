@@ -1,6 +1,6 @@
 # GOACS2 Module 8 - API Practice
 
-Please complete the program as described on the assignment page.
+Please complete the programs as described on the assignment page.
 
 ---
 
